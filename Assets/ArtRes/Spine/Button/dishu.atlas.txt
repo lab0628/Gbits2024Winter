@@ -1,0 +1,55 @@
+
+dishu.png
+size: 349,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 248, 2
+  size: 99, 79
+  orig: 101, 81
+  offset: 1, 1
+  index: -1
+by
+  rotate: false
+  xy: 17, 57
+  size: 59, 24
+  orig: 59, 25
+  offset: 0, 1
+  index: -1
+gaoguang_l
+  rotate: false
+  xy: 9, 73
+  size: 6, 8
+  orig: 8, 10
+  offset: 1, 1
+  index: -1
+gaoguang_r
+  rotate: false
+  xy: 2, 74
+  size: 5, 7
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+hand
+  rotate: false
+  xy: 78, 50
+  size: 108, 31
+  orig: 110, 33
+  offset: 1, 1
+  index: -1
+shili
+  rotate: false
+  xy: 2, 2
+  size: 244, 45
+  orig: 249, 47
+  offset: 1, 1
+  index: -1
+sj
+  rotate: false
+  xy: 188, 49
+  size: 48, 32
+  orig: 50, 34
+  offset: 1, 1
+  index: -1

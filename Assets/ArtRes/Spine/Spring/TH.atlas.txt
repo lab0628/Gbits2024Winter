@@ -1,0 +1,20 @@
+
+TH.png
+size: 202,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mogu
+  rotate: false
+  xy: 2, 2
+  size: 131, 77
+  orig: 131, 77
+  offset: 0, 0
+  index: -1
+mogu2
+  rotate: false
+  xy: 135, 22
+  size: 65, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1

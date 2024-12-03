@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 00088d6494d222c4280efc25618ad000
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Start1.unity
+    guid: 34cc3071885086646ad602e7f4de86dc
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Start2.unity
+    guid: aadcd70a87e84d64d926a50f4cb92028
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish/1.unity
+    guid: 39f5203c1c50fc84cb6b4e8afdcf5800
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Fragment1_1.unity
+    guid: 7189e04c4d794904cb368cbe3c0cc3e0
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish/2.unity
+    guid: 1768eeea8586d044d85847e41878a3fd
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Fragment1_2.unity
+    guid: 3c27c7a23267c9746b9d79cd9204cc5e
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/CG1.unity
+    guid: 3d0ea9ebdc4ceaf4cb01a94cd0537273
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish/3.unity
+    guid: 99d02df530168e4419957b7e901d5af5
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Fragment2_1.unity
+    guid: d11a4006dbfc65e4983444e308adb899
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish/4.unity
+    guid: c7fb2432bc2429b4fa6ce50a6c0bdca0
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Fragment2_2.unity
+    guid: d92a7588e9ec42947ba0ee11ed872e8f
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/CG2.unity
+    guid: ed57529fb2b365241b4394c9402c9a80
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish/5.unity
+    guid: b2c6ce02d7b910d48bf830b315fda8a4
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Fragment3_1.unity
+    guid: 799619c39ec841940b24df8a2c6d5c81
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish/6.unity
+    guid: 1315019214f8cab4ab88ea414e57eb67
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Fragment3_2.unity
+    guid: 65ea5a749814b1645b383f3bcbfe0c7e
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/CG3.unity
+    guid: d2926fd4772a0f3429c726ba87f728ee
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/BeforeEnding.unity
+    guid: 22e0bff4008d0924698397dedfe51def
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/StopEnding.unity
+    guid: a625dfc47d03cd340b37ed4fdbff0704
+  - enabled: 1
+    path: Assets/Scenes/Level/Vedio/Ending.unity
+    guid: 6f69684c595b6104bab2d86c5890dc20
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 446b691963d88dc4b916840da8768311, type: 2}
